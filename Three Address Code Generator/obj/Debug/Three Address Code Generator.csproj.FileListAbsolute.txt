@@ -1,0 +1,25 @@
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Three Address Code Generator.exe.config
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Three Address Code Generator.exe
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Three Address Code Generator.pdb
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.Modules.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.SQLite.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.Wpf.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.Modules.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.SQLite.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\IronPython.Wpf.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.csprojAssemblyReference.cache
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three_Address_Code_Generator.Form1.resources
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three_Address_Code_Generator.Properties.Resources.resources
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.csproj.GenerateResource.cache
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.csproj.CopyComplete
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.exe
+C:\Users\Omkar\source\repos\Three Address Code Generator\Three Address Code Generator\obj\Debug\Three Address Code Generator.pdb
